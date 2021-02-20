@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TOP-Shopping-Cart-JS/static/css/main.67ad2bef.chunk.css",
+    "main.js": "/TOP-Shopping-Cart-JS/static/js/main.8b53dcac.chunk.js",
+    "main.js.map": "/TOP-Shopping-Cart-JS/static/js/main.8b53dcac.chunk.js.map",
+    "runtime-main.js": "/TOP-Shopping-Cart-JS/static/js/runtime-main.14542506.js",
+    "runtime-main.js.map": "/TOP-Shopping-Cart-JS/static/js/runtime-main.14542506.js.map",
+    "static/js/2.b1198309.chunk.js": "/TOP-Shopping-Cart-JS/static/js/2.b1198309.chunk.js",
+    "static/js/2.b1198309.chunk.js.map": "/TOP-Shopping-Cart-JS/static/js/2.b1198309.chunk.js.map",
+    "index.html": "/TOP-Shopping-Cart-JS/index.html",
+    "static/css/main.67ad2bef.chunk.css.map": "/TOP-Shopping-Cart-JS/static/css/main.67ad2bef.chunk.css.map",
+    "static/js/2.b1198309.chunk.js.LICENSE.txt": "/TOP-Shopping-Cart-JS/static/js/2.b1198309.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14542506.js",
+    "static/js/2.b1198309.chunk.js",
+    "static/css/main.67ad2bef.chunk.css",
+    "static/js/main.8b53dcac.chunk.js"
+  ]
+}
