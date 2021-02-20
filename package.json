@@ -2,7 +2,7 @@
   "name": "shopping-cart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://colemanmitch.github.io/top-shopping-cart-js",
+  "homepage": "https://colemanmitch.github.io/TOP-Shopping-Cart-JS",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
